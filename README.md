@@ -1,4 +1,4 @@
-<img src='https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg' width='100%' height="300" />
+<img src='https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg' width='100%' height="300" />
 <br/>
 <h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30" height="30" />, I'm NayanChandrakar</h1>
 <h3 align="left">A passionate Full Stack developer from India</h3>
