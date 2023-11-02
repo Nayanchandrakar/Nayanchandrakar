@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **3D portfolio project**
 
-- 👨‍💻 All of my projects are available at [3D_portfolio_url](https://portfolio00023.netlify.app/)
+- 👨‍💻 All of my projects are available at [My portfolio url ([https://portfolio00023.netlify.app/](https://nayanchandrakar.vercel.app/))
 
 - 💬 Ask me about **React , Tailwind Css , Strapi ,Stripe , Mongo DB**
 
