@@ -1,6 +1,6 @@
 <h1 align="left" >👉 Hi I'm Nayan Chandrakar</h1>
 <p>
-A dedicated full-stack web developer with a profound passion for my craft. My expertise lies in working with cutting-edge technologies, specifically the T3 stack and MERN stack. In addition to my technical skills, I have collaborated with a startup based in the United States with an Indian presence. Furthermore, I have successfully engaged with numerous freelance clients, fostering valuable professional relationships. I am proud to boast a substantial following of over 2000+ individuals on LinkedIn.
+A Dedicated Full-stack web developer with a profound passion for my craft. My expertise lies in working with cutting-edge technologies, specifically the T3 stack and MERN stack. In addition to my technical skills, I have collaborated with a startup based in the United States with an Indian presence. Furthermore, I have successfully engaged with numerous freelance clients, fostering valuable professional relationships. I am proud to boast a substantial following of over 2000+ individuals on LinkedIn.
 </p>
 
 <h2 align="left">⭐ A Fullstack Next js / Mern stack Developer from India</h2>
