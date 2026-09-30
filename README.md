@@ -8,17 +8,12 @@ I like building systems where the interesting work is underneath the interface: 
 
 ## Skills & Languages
 
-**Languages:** typescript, python, sql, bash
-
-**Backend & systems:** bun, node.js, express.js, hono.js, context engineering, ast, lsp, tree-sitter, bloom-filters
-
-**Frontend:** react.js, next.js, tailwindcss, shadcn, zustand, jotai, tanstack query
-
-**Data and orms:** postgresql, mysql, sqlite, mongodb, pgvector, pinecone, drizzle, prisma, zod
-
-**Cloud and infrastructure:** aws, cloudflare, docker, vercel, turborepo, event driven architectures, firebase, convex
-
-**Services:** stripe, resend, redis, auth.js, clerk
+- **Languages:** typescript, python, sql, bash
+- **Backend & systems:** bun, node.js, express.js, hono.js, context engineering, ast, lsp, tree-sitter, bloom-filters
+- **Frontend:** react.js, next.js, tailwindcss, shadcn, zustand, jotai, tanstack query
+- **Data and orms:** postgresql, mysql, sqlite, mongodb, pgvector, pinecone, drizzle, prisma, zod
+- **Cloud and infrastructure:** aws, cloudflare, docker, vercel, turborepo, event driven architectures, firebase, convex
+- **Services:** stripe, resend, redis, auth.js, clerk
 
 
 ## Selected Engineering Work
